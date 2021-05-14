@@ -1,0 +1,21 @@
+
+h1 {
+    color : red;
+    text-decoration: underline;
+}
+p{
+    width: 200;
+    margin: auto;
+}
+body{
+    text-align: center;
+}
+.calculadora {
+    width: 200px;
+    margin: auto;
+    text-align: left;
+}
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
